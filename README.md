@@ -1,6 +1,6 @@
 # NWordle
 
-暑假期间，给自己和同学用 HTML+CSS+JavaScript 随手写的超轻量级的盗版 Wordle（我的电脑连接不上 Wordle 的官方网址）。
+暑假期间，给自己和同学用 HTML+CSS+JavaScript 随手写的超轻量级的盗版 Wordle（一切灾难的源头：国家防火墙）。
 
 在此表达对原作者 Josh Wardle 的敬意。
 
